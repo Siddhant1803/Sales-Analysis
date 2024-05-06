@@ -11,4 +11,16 @@
 
 
 ## Report : 
-<img width="100%" height="600" alt="image" src="https://github.com/Siddhant1803/Sales-Analysis/assets/127285389/15ca0382-3400-4656-ad0e-89137f9c89db">
+<img width="100%" height="550" alt="image" src="https://github.com/Siddhant1803/Sales-Analysis/assets/127285389/15ca0382-3400-4656-ad0e-89137f9c89db">
+
+
+# Profit Analysis : Objective seeks to identify opportunities to increase profits, optimize costs, and improve overall financial performance. The analysis will provide insights to guide strategic decision-making, enhance efficiency, and drive sustainable business growth.
+
+## Key Performancre Indicator
+1. Profit Margin by Market
+2. Profit Contribution by Market
+3. Revenue Contribution by Market
+4. Customer Performance
+
+## Report : 
+<img width="100%" height = "550" alt="image" src="https://github.com/Siddhant1803/Sales-Analysis/assets/127285389/8f078479-e456-4744-af05-79c58f79abfa">
